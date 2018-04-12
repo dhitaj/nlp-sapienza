@@ -1,0 +1,318 @@
+Where was X?	place
+without what X would not be the same?	part
+if i were to fill a container of X what color would that be?	color
+What is X in general?	generalization
+What is X made out of?	material
+how does X taste like?	taste
+What can X do?	activity
+Where is (the) X?	place
+when does X occur ?	time
+what is the sound of X ?	sound
+What shape does X have?	shape
+What pattern do X have?	color
+What is X made of?	material
+What material is X composed of?	material
+What is X built of?	material
+where is X located?	place
+what is the purpose of X?	purpose
+Do you know any type of X?	generalization
+What kind of object is X?	specialization
+When do X ?	time
+What is the use of X ?	purpose
+What is X shaped like?	shape
+What is the type of X ?	generalization
+What color can (a|an|the)? X be	color
+What is similar to X?	similarity
+What is X used for?	how_to_use
+How does X sound ?	sound
+What is/are X contained in?	part
+How carat is X ?	size
+When was X firstly introduced?	time
+Which is the form of X?	shape
+What did X become part of?	part
+Why is X used ?	purpose
+Where is X ?	place
+What is X taste like ?	taste
+what does X sound like?	sound
+What family do X belong to?	specialization
+How tall is X ?	size
+Which is the shape of X?	shape
+what sound does X make ?	sound
+What can do X?	activity
+Can X be compact?	size
+How is the X colored?	color
+What is an activity X do?	activity
+What is a X?	specialization
+What do you do with X ?	how_to_use
+What does X emit?	sound
+What's the use of a X?	purpose
+What would be X able to do ?	activity
+To what the sound of X is similar?	sound
+Where is X located ?	place
+What does X used for?	purpose
+what's the color of X?	color
+Where is located X?	place
+When is X?	time
+what does X reminds of?	similarity
+if i like the taste of X, what else could i like?	taste
+What can do X ?	activity
+Which is the shape of X like?	shape
+What is/are/was X part of?	part
+What is the sound of X ?	sound
+What material can X be made out of?	material
+What do/does X belong to?	part
+What is X constructed of?	material
+when does X take place?	time
+What flavour has X?	taste
+Can X be blue?	color
+Where is X located?	place
+what does X look like?	similar to
+What is the form of X ?	shape
+What is the shape of X?	shape
+What is X utilized to?	purpose
+What is the group of X?	generalization
+What do you use X for ?	how_to_use
+what's a part of X?	part
+When was X held?	time
+what sound does X produce?	sound
+When is X born?	time
+when does X held ?	time
+What is the X made of?	material
+Where is X ?	place
+What elevation is X ?	size
+How can X be used?	how_to_use
+What does X sound like?	sound
+When did X took place?	place
+What was X in general?	generalization
+Can be used  X in some way?	how_to_use
+What is the family of X?	generalization
+What is the sound of X like?	sound
+what is X made of?	material
+What does X resemble to?	similarity
+How is X?	color
+What is X belonging to?	part
+What is X a type of?	specialization
+How does X look like?	shape
+what color can X have?	color
+What is the material of X?	material
+How do you use a X ?	how_to_use
+what do X can do?	activity
+When did X take place?	time
+to what is X similar?	similarity
+How big is X ?	size
+What material is X made of?	material
+What was a part of X?	part
+What does X look like?	similarity
+What sound does X emit?	sound
+How does X look like?	similarity
+Which shape has X?	shape
+What is the best way to use X?	how_to_use
+What is the color of X?	color
+Can you give me examples of X?	generalization
+What is X?	generalization
+How wide is X ?	size
+Who is an example of X ?	specialization
+when is X ?	time
+What can X be used for ?	purpose
+what's something similar to X?	similar to
+What is/are X made out of?	material
+When was X released?	time
+What does X contains?	part
+Where is X located?	place
+What color, texture or pattern is X ?	color
+What is the taste of X like ?	taste
+What sound does X make?	sound
+Where does X belong to?	generalization
+How does X sound like ?	sound
+Where can X be found ?	place
+What is the point of using X?	purpose
+What form is X?	shape
+How does X taste?	taste
+what purpose does X have?	purpose
+On which date was X held?	time
+How big is the X?	size
+what size is X?	size
+What is X built out of?	material
+What can X do?	activity
+Is there anything belonging to the class of X?	generalization
+When was X born?	time
+What does X look like to?	similarity
+How is supposed to be used X?	how_to_use
+X is made by?	part
+How does X taste ?	taste
+Is X used for transportation?	purpose
+How long is X ?	size
+Is X increased or decreased?	size
+What pattern does X have?	color
+How does X taste like ?	taste
+what is X able to do ?	activity
+Which are the ways ona can use  X ?	how_to_use
+What X is used for ?	how_to_use
+what can X do ?	activity
+What is X used for ?	purpose
+What is the shape of X ?	shape
+Where is X?	place
+what smell X has?	smell
+What sound is emitted by X ?	sound
+Where is X placed ?	place
+what color is X?	color
+How is the sound of X?	sound
+what is the sound made by X ?	sound
+How is the sound of X like ?	sound
+what have you seen X do?	activity
+When was X?	time
+Where is X situated?	place
+What X could be confused with?	similarity
+what you can recover from X?	part
+What is the dimension of X?	size
+Which activity do X do?	activity
+What X can do ?	activity
+What is an instance of X ?	specialization
+To do what you use the X?	purpose
+What size are the X?	size
+What is X made from?	material
+What can X be confused with?	similarity
+Can X emit any sound?	sound
+What constitutes X?	material
+What is the taste of X?	taste
+What sound does X emit ?	sound
+Where is the city of X?	place
+What color is X?	color
+What does X have?	part
+What color is the X?	color
+what does X makes you think of?	similarity
+What is a specific X?	specialization
+When was X dominant?	time
+what is the shape of X ?	shape
+How can I use X?	how_to_use
+How to use X?	how_to_use
+How is X?	shape
+what shape does X have ?	shape
+How is the X?	color
+What do I need to make X?	material
+What is the length of X?	size
+What is X and where is located ?	place
+Can X be red?	color
+What X can be ?	specialization
+What is X flavor Like ?	taste
+(Is|Are) (a|an|the)? X similar to (the|a|an)?	similarity
+what can X be mistaken for?	similar to
+What is the flavor of X like ?	taste
+what is X composed of?	material
+When was X active?	time
+Where can X be found ?	place
+Which material X contains?	material
+What size is (the|a|an)? X	size
+Do you know what kind of activity can X do?	activity
+What was X?	generalization
+What color do X have?	color
+What is X used to?	purpose
+Which is the correct way to use X?	how_to_use
+How do you use a X?	how_to_use
+What is X used for?	purpose
+What is X?	specialization
+What sound can X emit ?	sound
+if you were a X would you be able to do?	activity
+How can is used X ?	how_to_use
+What is the species of X ?	generalization
+What material can X be made up of?	material
+Which sound emits X?	sound
+when did X happen?	time
+What is X able to?	activity
+What X is able to do ?	activity
+What is the purpose of using X?	purpose
+Where are X?	place
+When was X introduced?	time
+What is a part of X?	part
+What is X's taste ?	taste
+in which place can X be found?	place
+What material is/are this/these X made out of?	material
+When X can be used?	time
+Where is the city of X located?	place
+What does X sing?	sound
+When is X ?	time
+somewhere in the universe, there is a X doing what?	activity
+What X is similar to?	similarity
+Where is X?	place
+Where is X used?	how_to_use
+How is X?	size
+What is an example of X ?	specialization
+When is X died?	time
+What does smell like X?	smell
+What is X ?	generalization
+How high is X ?	size
+When is X open?	time
+What is the class of X ?	generalization
+which is X size?	size
+What X is able to do?	activity
+what colour is X?	color
+how big is X?	size
+When X was created?	time
+What X is used for?	purpose
+What is the purpose of X ?	purpose
+With what purpose do you use a X?	purpose
+What is the width of X?	size
+What is the taste of X ?	taste
+Where is the village of X located?	place
+What size is a X?	size
+What is the size of X?	size
+What is the purpose of X?	purpose
+Why do we use X?	purpose
+When was X opened?	time
+What is the specialization of X?	specialization
+What is X and where is located exactly ?	place
+How is X?	taste
+How do you use X ?	how_to_use
+What material can X be made from?	material
+What is the form of X?	shape
+What material is/are this/these X made from?	material
+What does taste like X?	taste
+what does X smell like?	smell
+Which material is the X?	material
+When does X took place?	time
+How long was X ?	size
+What material is X built of?	material
+Where is the village of X?	place
+What is the flavor of X?	taste
+Why do you use a X?	purpose
+How would you use X?	how_to_use
+How does X sound like ?	sound
+When did X die?	time
+What is able to do X?	activity
+What is the X woven with?	material
+What is X similar to?	similarity
+What is the form of X ?	shape
+What was a specific X?	specialization
+when did X happen?	time
+What is the category of X?	generalization
+What is X ?	specialization
+Where is the town of X located?	place
+What shape is X?	shape
+What does X taste like?	taste
+What is X?	specialization
+What is the aim of using X?	purpose
+what is similar to X ?	similarity
+if you ate a X what would it taste like?	taste
+What VB X able to do ?	activity
+When was X released?	time
+what does X taste like?	taste
+What do you do with X?	how_to_use
+How is X shaped?	shape
+What is X a species of?	specialization
+what shape does X have?	shape
+What were X made up of?	part
+Where is the town of X?	place
+Who is X ?	generalization
+what's inside X?	part
+what does X taste like?	taste
+What can I use X for ?	purpose
+What is X part of ?	part
+What do X is able to do?	activity
+which is the right time for X?	time
+For what could be used X?	purpose
+What is size of X ?	size
+When is X used?	time
+Who does play for X?	part
+In which year it has been created X?	time
+When X is used?	time
+What are the purpose of X?	purpose
