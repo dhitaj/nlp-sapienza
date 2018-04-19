@@ -1,0 +1,264 @@
+angelfish	shape	triangular
+Discus	shape	round
+Flounder	shape	rounded
+Himalayan cat	shape	rounded
+Sea squirt	shape	cylindrical
+Stick insect	shape	cylindrical
+stingray	shape	flat
+Zebra shark	shape	flattened
+Balalaika	shape	triangle
+Bandola	shape	teardrop
+Bandoneon	shape	square
+Bandura	shape	oval
+Bowed Psaltery	shape	triangular
+Cobza	shape	pear-shaped
+Concertina	shape	hexagonal
+Cymbala	shape	trapezium
+Darabuka	shape	hourglass-shaped
+Djembe	shape	mushroom-shaped
+Domra	shape	pear shaped
+Dumbeg	shape	hourglass-shaped
+Dunun	shape	hour glass
+Ghaychak	shape	anchor
+Ocarina	shape	egg shape
+Panduri	shape	diamond shaped
+Sho	shape	hemispherical
+Strumstick	shape	triangular
+Talking Drum	shape	hourglass-shaped
+Ocarina	shape	egg shaped
+Aldabra Giant Tortoise	similarity	Seychelles Giant Tortoise
+asian giant hornet	similarity	Asian Hornet
+bernese mountain dog	similarity	Swiss Mountain Dog
+bobcat	similarity	Lynx
+buffalo	similarity	Water Buffalo
+butterfly	similarity	moths
+butterfly fish	similarity	angelfish
+cheetah	similarity	Leopards
+collared-peccary	similarity	pig
+coral	similarity	deer antlers
+crab	similarity	prawns
+crab	similarity	shrimp
+crab	similarity	lobster
+dugong	similarity	manatee
+gar	similarity	garfish
+glass lizard	similarity	snake
+glow worm	similarity	worm
+grey mouse lemur	similarity	mouse
+heron	similarity	stalk
+humboldt penguin	similarity	African penguin
+humboldt penguin	similarity	magellanic penguin
+humboldt penguin	similarity	Galapagos penguin
+jaguar	similarity	Leopard
+lobster	similarity	shrimp
+lobster	similarity	prawns
+mongoose	similarity	meerkat
+mongoose	similarity	weasel
+nightingale	similarity	robin
+prawn	similarity	shrimp
+robin	similarity	nightingale
+rock hyrax	similarity	Guinea pig
+rockhopper penguin	similarity	royal penguin
+rockhopper penguin	similarity	macaroni penguin
+roseate spoonbill	similarity	flamingo
+sea dragon	similarity	sea horse
+stick insect	similarity	twig
+turkey	similarity	female peacock
+uguisu	similarity	nightingale
+uguisu	similarity	Bushits
+water vole	similarity	Mice
+water vole	similarity	Brown rat
+yak	similarity	American bison
+Dumbeg	similarity	darabuka
+x-ray tetra	colorPattern	transparent
+african tree toad	colorPattern	brown
+bombay	colorPattern	black
+stellers sea cow	colorPattern	black
+abyssinian	colorPattern	blue
+abyssinian	colorPattern	lilac
+abyssinian	colorPattern	red
+afghan hound	colorPattern	black
+afghan hound	colorPattern	golden
+african tree toad	colorPattern	light brown
+alligator	colorPattern	yellow
+alligator	colorPattern	green
+alligator	colorPattern	brown
+alpine dachsbracke	colorPattern	red, brown, black
+american bulldog	colorPattern	white, brindle
+american foxhound	colorPattern	white, brown, tan, black
+anteater	colorPattern	grey or brown
+arctic fox	colorPattern	white
+arctic hare	colorPattern	white
+arctic wolf	colorPattern	white
+axolotl	colorPattern	white
+badger	colorPattern	white and black
+bengal tiger	colorPattern	white and black
+bernese mountain dog	colorPattern	black, white tan
+blue whale	colorPattern	greyish blue
+bobcat	colorPattern	beige to brown or redish
+bombay	colorPattern	black
+bornean orang-utan	colorPattern	patchy red and orange
+capybara	colorPattern	brown
+caracal	colorPattern	red
+caracal	colorPattern	grey
+caracal	colorPattern	golden
+clouded leopard	colorPattern	yellow
+clown fish	colorPattern	orange
+edible-frog	colorPattern	green
+entlebucher mountain dog	colorPattern	black
+fin whale	colorPattern	blue, grey
+flamingo	colorPattern	pinky/orange
+giant panda bear	colorPattern	creamy-white
+giraffe	colorPattern	white with brown marings
+green bee eater	colorPattern	green
+indri	colorPattern	black
+jaguar	colorPattern	yellowish
+kingfisher	colorPattern	black
+ladybird	colorPattern	red and black
+lobster	colorPattern	red
+lobster	colorPattern	blue
+lobster	colorPattern	green
+lobster	colorPattern	purple
+lobster	colorPattern	yellow
+macaw	colorPattern	blue
+macaw	colorPattern	red
+macaw	colorPattern	yellow
+macaw	colorPattern	green
+monte iberia eleuth	colorPattern	black
+ocelot	colorPattern	tawny yellow
+okapi	colorPattern	red-brown
+patas monkey	colorPattern	white
+proboscis monkey	colorPattern	pale orange to light brown
+radiated tortoise	colorPattern	brown to black
+ragdoll	colorPattern	white with brown markings
+river turtle	colorPattern	yellow-spotted
+rock hyrax	colorPattern	brown to grey
+skunk	colorPattern	black and white
+snowy owl	colorPattern	white
+squirrel monkey	colorPattern	olive to grey
+stellers sea cow	colorPattern	black
+tiger	colorPattern	orange with black stripes
+tiger salamander	colorPattern	green
+tiger salamander	colorPattern	black
+uakari	colorPattern	red
+wild boar	colorPattern	brown
+zebra	colorPattern	white and black stripes
+kangaroo	colorPattern	brown
+ainu dog	activity	howl
+african tree toad	activity	hopping
+dingo	activity	hunt
+dusky dolphin	activity	dive
+elephant shrew	activity	hop
+falcon	activity	hunt
+fishing cat	activity	hunt
+hippo	activity	run
+jackal	activity	hunt
+killer whale	activity	hunt
+lynx	activity	hunt
+ocelot	activity	climb
+ocelot	activity	run
+puffin	similarity	excavate
+aardvark	activity	excavate
+adelie penguin	activity	hunt
+african bush elephant	activity	drink
+alaskan malamute	activity	pull heavy loads
+alligator	activity	hunt
+american eskimo dog	activity	bark
+american foxhound	activity	run
+anatolian shepherd dog	activity	learn
+angelfish	activity	hide
+asian giant hornet	activity	sting
+badger	activity	run
+bengal tiger	activity	hunt
+binturong	activity	swim and dive
+bobcat	activity	hunt
+bulldog	activity	jump
+bullfrog	activity	hunt
+burrowing-frog	activity	hunt
+butterfly	activity	fly
+caiman lizard	activity	hunt
+cheetah	activity	hunt
+chimpanzee	activity	remember
+chimpanzee	activity	recognize
+common loon	activity	swim
+dingo	activity	hunt
+echidna	activity	dig
+edible frog	activity	hunt
+elephant seal	activity	dive
+elephant shrew	activity	run
+falcon	activity	hunt
+falcon	activity	hunt
+fossa	activity	run
+grey mouse lemur	activity	hunt
+hummingbird	activity	fly
+killer whale	activity	hunt
+komodo dragon	activity	run
+crocodile	activity	swim
+edible frog	activity	hunt
+fin whale	activity	breed
+flamingo	activity	breed
+fly	activity	prey
+mouse	activity	eat
+guppy	activity	eat
+guppy	activity	swim
+hamster	activity	run
+hare	activity	run
+hare	activity	jump
+hare	activity	hop
+impala	activity	jump
+jaguar	activity	roar
+kangaroo	activity	jump
+kingfisher	activity	dig
+kudu	activity	run
+leaf tailed gecko	activity	hunt
+lobster	activity	swim
+minke whale	activity	swim
+mountain lion	activity	hunt
+parrot	activity	replicate
+polar bear	activity	run, swim
+puffin	activity	excavate
+puffin	activity	fly
+puma	activity	hunt
+quetzal	activity	fly
+rabbit	activity	eat
+red wolf	activity	reproduce
+rock hyrax	activity	run
+roseate spoonbill	activity	fly
+scorpion	activity	eat
+scorpion fish	activity	hunt
+sea dragon	activity	hunt
+sea turtle	activity	breed
+siberian tiger	activity	hunt
+striped rocket frog	activity	hunt
+sumatran tiger	activity	hunt
+tarsier	activity	hunt
+thorny devil	activity	eat
+vampire bat	activity	fly
+parrot	activity	mimic
+weasel	activity	hunt
+car	howToUse	drive
+bike	howToUse	ride
+whistle	howToUse	blow
+ship	howToUse	sail
+plane	howToUse	fly
+camera	howToUse	take photos
+drum	howToUse	hit
+ball	howToUse	kick
+boxing gloves	howToUse	wear
+shirt	howToUse	wear
+piano	howToUse	play
+mechanical keyboard	howToUse	type
+cigarette	howToUse	smoke
+wine	howToUse	drink
+soda	howToUse	drink
+chocolate	howToUse	eat
+Antistress ball	howToUse	squeeze
+light switch	howToUse	turn
+Headphones	howToUse	plug
+syryp	howToUse	drink
+dumbells	howToUse	lift
+Punching bag	howToUse	hit
+bed	howToUse	lay
+chair	howToUse	sit
+zipper	howToUse	zip
+piano	howToUse	play
+gun	howToUse	shoot

@@ -1,0 +1,20 @@
+What is X able to?	activity
+What can X do?	activity
+Does X Y?	activity
+What is the form of X?	shape
+How is X shaped?	shape
+What shape does X have?	shape
+What is X shaped like?	shape
+Is Y the shape of X?	shape
+What can X be confused with?	similarity
+What does X look like?	similarity
+What does X resemble to?	similarity
+Is Y similar to X?	similarity
+Does Y look like X?	similarity
+What is the color of X?	colorPattern
+Is X Y?	colorPattern
+Is Y the color of X?	colorPattern
+Is Y the pattern of X?	colorPattern
+How do you use a X?	howToUse
+What do you do with X?	howToUse
+Do you Y a X?	howToUse

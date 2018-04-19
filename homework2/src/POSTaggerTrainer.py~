@@ -1,0 +1,18 @@
+__author__ = 'dorjan'
+
+import sys
+sys.path.insert(0, '/home/dorjan/Desktop/homework_2')
+
+import homework2
+
+
+class POSTaggerTrainer(homework2.AbstractPOSTaggerTrainer):
+    def __init__(self):
+        print('class initialized successfully')
+
+
+    def train(self, training_path):
+        return 1
+
+
+x=POSTaggerTrainer()

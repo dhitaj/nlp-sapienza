@@ -1,0 +1,80 @@
+Before running the Bot or training the model:
+
+you should run: populate.py
+-- This file will create all the needed files for the program to function correctly
+-- It will also populate the Mongo DB instance and also create the indexes that are needed in the Querying interaction
+
+FOLDER SETUP:
+
+/data:
+    In this directory all the necessary files for the bot to perform the querying and enriching interaction are found:
+
+/models:
+    The trained model that is used in the network.py file to predict the relation of the questions presented by user
+
+source code:
+
+constants.py
+    - In this file all the constant information that is needed from other files like the server endpoint, babelnet token, telegram bot token etc
+
+babelnet.py
+    - In this file there are methods for:
+            --- querying the babelnet server for lemmas provided the babelnet id and vice versa
+            --- fetching random lemmas in provided babelnet domains
+            --- preparing helper files like babelnet_domains_dict.txt
+
+server.py
+    - In this file there are methods for:
+            --- fetching the knowledgebase content and storing it locally(that content is transferred to the database later)
+            --- adding new records in the knowledge base, records that were obtained during enriching phase
+            --- fetching babel domains list from the link provided
+            --- generating 5 random domains that are promted to the user for him to select at the beginning of the interaction
+
+populate.py
+    - This file has to be run before attempting to start the bot
+        It calls all the necessary methods to fetch the data from the server, create helper files, populate the database with the servers data
+
+
+database.py
+    - This file includes a database class that contains method to perform full text searches in the database, keyword searches, populating the database and more
+
+sentence_simmilarity.py
+    - This file contains an implementation of computing similarity coefficients between sentences by using wordnet
+    - The code was taken from an online blog and it is fully credited to it also in the file
+
+hitalutilities.py
+    - In this file there are located helper methods like reading and parsing files, performing filtering of data, sortings etc
+
+neural_network.py
+    - This file contains the implementation of the neural network used to predict the RELATION of the users questions
+    - it contains mehtods to train a model
+    - and also to predict the relation provided a sentence
+
+main_file.py
+    - This file contains the Bot implementation and is dependent on all the other files mentioned above
+
+Dorjan_Hitaj_1740478_NLP_Project_Report.pdf
+    - This is the report of this project
+    - In it you will find motivation, literature, explanations and performance evaluations about the coding solution I am providing
+
+
+HOW THE BOT WORKS:
+    1) Send a random message to the bot: @CarbonBot
+    2) Bot will prompt you 5 random domains for you to choose
+    3) After that you are prompted to choose the direction:
+        a - You ask and the bot will try to answer
+        b - Bot asks and you help him learn
+    4a) When you ask the bot will try to answer or return no answer found
+    4b) When the bot asks you try to answer as clearly as possible
+
+    5) After one of the steps 4a or 4b you should text the bot again for a new conversation
+
+******************************************************************************************************************************************************
+Contact:
+    Full Name: Dorjan Hitaj
+    Matricola: 1740478
+    Email: dorjan.hitaj93@gmail.com
+           hitaj.1740478@studenti.uniroma1.it
+
+
+
